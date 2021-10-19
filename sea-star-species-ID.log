@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.16)  17 OCT 2021 18:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.10.16)  18 OCT 2021 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -672,124 +672,129 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/Users/joanmoreaux/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.ma
 p}]
-</Users/joanmoreaux/Github/species-id-starfish/images/pisaster-morphology-anato
-my.png, id=98, 830.10126pt x 400.49625pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-morphology-
-anatomy.png Graphic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-morphology-a
-natomy.png>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
-isaster-morphology-anatomy.png  used on input line 202.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-morphol
+ogy-anatomy.png, id=94, 830.10126pt x 400.49625pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-mo
+rphology-anatomy.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-mor
+phology-anatomy.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/pisaster-morphology-anatomy.png  used on input line 202.
 (pdftex.def)             Requested size: 399.29272pt x 192.64545pt.
-</Users/joanmoreaux/Github/species-id-starfish/images/pisaster-ossicles.png, id
-=100, 416.55624pt x 392.46625pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-ossicles.pn
-g Graphic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-ossicles.png
->
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
-isaster-ossicles.png  used on input line 209.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-ossicle
+s.png, id=96, 416.55624pt x 392.46625pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-os
+sicles.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-oss
+icles.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/pisaster-ossicles.png  used on input line 209.
 (pdftex.def)             Requested size: 207.11443pt x 195.13672pt.
-</Users/joanmoreaux/Github/species-id-starfish/images/pisaster-arms.png, id=101
-, 539.01375pt x 578.16pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-arms.png Gr
-aphic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/pisaster-arms.png>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
-isaster-arms.png  used on input line 216.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-arms.pn
+g, id=97, 539.01375pt x 578.16pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-ar
+ms.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-arm
+s.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/pisaster-arms.png  used on input line 216.
 (pdftex.def)             Requested size: 181.91339pt x 195.12498pt.
-[2 </Users/joanmoreaux/Github/species-id-starfish/images/pisaster-morphology-an
-atomy.png> </Users/joanmoreaux/Github/species-id-starfish/images/pisaster-ossic
-les.png>] [3 </Users/joanmoreaux/Github/species-id-starfish/images/pisaster-arm
-s.png>]
-</Users/joanmoreaux/Github/species-id-starfish/images/evasterias-anatomy.jpg, i
-d=124, 1026.83624pt x 1289.81876pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-anatomy.j
-pg Graphic file (type jpg)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-anatomy.jp
-g>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/e
-vasterias-anatomy.jpg  used on input line 287.
+[2 </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pisaster-morp
+hology-anatomy.png> </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/ima
+ges/pisaster-ossicles.png>] [3 </Users/joanmoreaux/Github/species-id-guide-joan
+moreaux/images/pisaster-arms.png>]
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-anato
+my.jpg, id=120, 1026.83624pt x 1289.81876pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-
+anatomy.jpg Graphic file (type jpg)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-a
+natomy.jpg>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/evasterias-anatomy.jpg  used on input line 287.
 (pdftex.def)             Requested size: 310.68552pt x 390.25502pt.
-</Users/joanmoreaux/Github/species-id-starfish/images/evasterias-ossicles-compa
-rison.png, id=125, 783.92876pt x 315.1775pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-ossicles-
-comparison.png Graphic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-ossicles-c
-omparison.png>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/e
-vasterias-ossicles-comparison.png  used on input line 294.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-ossic
+les-comparison.png, id=121, 783.92876pt x 315.1775pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-
+ossicles-comparison.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-o
+ssicles-comparison.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/evasterias-ossicles-comparison.png  used on input line 294.
 (pdftex.def)             Requested size: 352.3221pt x 141.65062pt.
-</Users/joanmoreaux/Github/species-id-starfish/images/evasterias-arms.png, id=1
-26, 508.90125pt x 392.46625pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-arms.png 
-Graphic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/evasterias-arms.png>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/e
-vasterias-arms.png  used on input line 301.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-arms.
+png, id=122, 508.90125pt x 392.46625pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-
+arms.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-a
+rms.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/evasterias-arms.png  used on input line 301.
 (pdftex.def)             Requested size: 168.67561pt x 130.08316pt.
-[4 </Users/joanmoreaux/Github/species-id-starfish/images/evasterias-anatomy.jpg
->] [5 </Users/joanmoreaux/Github/species-id-starfish/images/evasterias-ossicles
--comparison.png> </Users/joanmoreaux/Github/species-id-starfish/images/evasteri
-as-arms.png>]
-</Users/joanmoreaux/Github/species-id-starfish/images/patiria-morph-anatomy.jpg
-, id=144, 1396.21625pt x 995.72pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/patiria-morph-anatom
-y.jpg Graphic file (type jpg)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/patiria-morph-anatomy
-.jpg>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
-atiria-morph-anatomy.jpg  used on input line 373.
+[4 </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/evasterias-an
+atomy.jpg>] [5 </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/e
+vasterias-ossicles-comparison.png> </Users/joanmoreaux/Github/species-id-guide-
+joanmoreaux/images/evasterias-arms.png>]
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-morph-an
+atomy.jpg, id=140, 1396.21625pt x 995.72pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-mor
+ph-anatomy.jpg Graphic file (type jpg)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-morp
+h-anatomy.jpg>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/patiria-morph-anatomy.jpg  used on input line 373.
 (pdftex.def)             Requested size: 352.3128pt x 251.25398pt.
-</Users/joanmoreaux/Github/species-id-starfish/images/patiria-ossicles.png, id=
-145, 409.53pt x 347.2975pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/patiria-ossicles.png
- Graphic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/patiria-ossicles.png>
-
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
-atiria-ossicles.png  used on input line 379.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-ossicles
+.png, id=141, 409.53pt x 347.2975pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-oss
+icles.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-ossi
+cles.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/patiria-ossicles.png  used on input line 379.
 (pdftex.def)             Requested size: 183.20572pt x 155.36565pt.
-</Users/joanmoreaux/Github/species-id-starfish/images/patiria-arms.png, id=146,
- 475.7775pt x 389.455pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/patiria-arms.png Gra
-phic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/patiria-arms.png>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/p
-atiria-arms.png  used on input line 386.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-arms.png
+, id=142, 475.7775pt x 389.455pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-arm
+s.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-arms
+.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/patiria-arms.png  used on input line 386.
 (pdftex.def)             Requested size: 281.86784pt x 230.72726pt.
-[6 </Users/joanmoreaux/Github/species-id-starfish/images/patiria-morph-anatomy.
-jpg> </Users/joanmoreaux/Github/species-id-starfish/images/patiria-ossicles.png
->] [7 </Users/joanmoreaux/Github/species-id-starfish/images/patiria-arms.png>]
-</Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morph.png, i
-d=168, 256.96pt x 226.8475pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morph.p
-ng Graphic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morph.pn
-g>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/d
-ermasterias-morph.png  used on input line 462.
+[6 </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/patiria-morph
+-anatomy.jpg> </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/pa
+tiria-ossicles.png>] [7 </Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/patiria-arms.png>]
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasterias-mor
+ph.png, id=164, 256.96pt x 226.8475pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasteria
+s-morph.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasterias
+-morph.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/dermasterias-morph.png  used on input line 462.
 (pdftex.def)             Requested size: 169.11577pt x 149.29752pt.
-</Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-arms.png, id
-=169, 362.35374pt x 299.1175pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-arms.pn
-g Graphic file (type png)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-arms.png
->
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/d
-ermasterias-arms.png  used on input line 469.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasterias-arm
+s.png, id=165, 362.35374pt x 299.1175pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasteria
+s-arms.png Graphic file (type png)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasterias
+-arms.png>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/dermasterias-arms.png  used on input line 469.
 (pdftex.def)             Requested size: 187.89977pt x 155.10838pt.
-</Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morphs.jpg, 
-id=170, 1363.0925pt x 1163.34625pt>
-File: /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morphs.
-jpg Graphic file (type jpg)
-<use /Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morphs.j
-pg>
-Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-starfish/images/d
-ermasterias-morphs.jpg  used on input line 475.
+</Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasterias-mor
+phs.jpg, id=166, 1363.0925pt x 1163.34625pt>
+File: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasteria
+s-morphs.jpg Graphic file (type jpg)
+<use /Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasterias
+-morphs.jpg>
+Package pdftex.def Info: /Users/joanmoreaux/Github/species-id-guide-joanmoreaux
+/images/dermasterias-morphs.jpg  used on input line 475.
 (pdftex.def)             Requested size: 352.31578pt x 300.68777pt.
-[8 </Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morph.png
-> </Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-arms.png>]
+[8 </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasterias-
+morph.png> </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/derma
+sterias-arms.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 497.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -802,51 +807,52 @@ Overfull \hbox (7.25009pt too wide) in paragraph at lines 497--497
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 503.
+Package xcolor Warning: Incompatible color definition on input line 504.
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
-04.
+05.
 (/Users/joanmoreaux/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 505.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 506.
 
-Package xcolor Warning: Incompatible color definition on input line 507.
+Package xcolor Warning: Incompatible color definition on input line 508.
 
 
-Package xcolor Warning: Incompatible color definition on input line 507.
+Package xcolor Warning: Incompatible color definition on input line 508.
 
-<sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf, id=184, 469.755p
+<sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf, id=180, 469.755p
 t x 325.215pt>
 File: sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file
  (type pdf)
 <use sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf>
 Package pdftex.def Info: sea-star-species-ID_files/figure-latex/unnamed-chunk-3
--1.pdf  used on input line 527.
+-1.pdf  used on input line 528.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
-[9 </Users/joanmoreaux/Github/species-id-starfish/images/dermasterias-morphs.jp
-g>] [10] [11 <./sea-star-species-ID_files/figure-latex/unnamed-chunk-3-1.pdf>]
-Underfull \hbox (badness 1052) in paragraph at lines 559--562
+[9 </Users/joanmoreaux/Github/species-id-guide-joanmoreaux/images/dermasterias-
+morphs.jpg>] [10] [11 <./sea-star-species-ID_files/figure-latex/unnamed-chunk-3
+-1.pdf>]
+Underfull \hbox (badness 1052) in paragraph at lines 560--563
 \T1/lmr/m/n/10 Re-trieved from []$https : / / inverts . wallawalla . edu / Echi
 nodermata / Class % 20Asteroidea / Evasterias _ troschelii .
  []
 
 
-Overfull \hbox (8.9126pt too wide) in paragraph at lines 591--594
+Overfull \hbox (8.9126pt too wide) in paragraph at lines 592--595
 []\T1/lmr/m/n/10 Mackenzie, C. (n.d.) Ev-as-te-rias trosche-lii. [Pho-to-graph]
 . Re-trieved from []$https : / / www . centralcoastbiodiversity .
  []
 
 [12] [13] (./sea-star-species-ID.aux)
 Package rerunfilecheck Info: File `sea-star-species-ID.out' has not changed.
-(rerunfilecheck)             Checksum: 28F1EE695BDEBC62A7BCBC8895FEC8B9;2454.
+(rerunfilecheck)             Checksum: B5E089A5CCE8D9B981E5C63DCAA97B12;2362.
  ) 
 Here is how much of TeX's memory you used:
- 13605 strings out of 480559
- 215559 string characters out of 5902114
- 523665 words of memory out of 5000000
- 30875 multiletter control sequences out of 15000+600000
+ 13601 strings out of 480559
+ 216658 string characters out of 5902114
+ 523631 words of memory out of 5000000
+ 30873 multiletter control sequences out of 15000+600000
  463985 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  60i,12n,66p,811b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -862,10 +868,10 @@ fb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.
 pfb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtk10
 .pfb></Users/joanmoreaux/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt1
 0.pfb>
-Output written on sea-star-species-ID.pdf (13 pages, 15476767 bytes).
+Output written on sea-star-species-ID.pdf (13 pages, 15476890 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
- 78 named destinations out of 1000 (max. 500000)
- 218 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 315 PDF objects out of 1000 (max. 8388607)
+ 254 compressed objects within 3 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 210 words of extra memory for PDF output out of 10000 (max. 10000000)
 

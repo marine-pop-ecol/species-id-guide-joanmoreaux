@@ -20,7 +20,7 @@ output:
 **Reproduction:** *P. ochraceus* is said to be a “broadcast spawner”, meaning that it releases many gametes (eggs and sperm) into the water column, where fertilization occurs (Multi-Agency Rocky Intertidal Network, 2021). Spawning events typically occur in May and July in response to changes in photoperiod (McFadden et *al.*, 2008; Monaco et *al.*, 2014). The zygote develops into a free-living ciliated larva, capable of filter feeding and settling before metamorphosing into the adult. 
 
 ## Questions
-1. Does the sea star have longer rays (arms), relative to their central disk?
+1. Does the sea star have medium sized rays (arms), relative to their central disk?
 2. Are the rays (arms) broadest at their base and then taper off to the tip? 
 3. Are ossicles present on their aboral (top) central disk of the sea star in a stellate (star shaped) pattern?
 
@@ -205,7 +205,7 @@ knit_table = function(df){
 
 knit_table(sea_star_summary)
 ```
-
+Note - In *Evasterias troschelii* reproduction it is important to mention they too sexually reproduce via external fertilization which leads to the larvae stage mentioed
 ## Figures
 ```{r}
 sea_star_data = read_csv(here("./data/sea-star-morph-modified.csv"))
